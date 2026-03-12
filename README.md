@@ -82,5 +82,5 @@ sudo dnf install tesseract
 ```
 ### 6. Run the program
 ```
-python main.py
+Image_to_String.py
 ```
