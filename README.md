@@ -33,7 +33,7 @@ image_path = "image.png"
 3. Run the script:
 
 ```
-python main.py
+python Image_to_String.py
 ```
 
 The extracted text will be printed in the terminal.
