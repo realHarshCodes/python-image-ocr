@@ -50,8 +50,8 @@ The extracted text will be printed in the terminal.
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/image-text-extractor.git
-cd image-text-extractor
+git clone https://github.com/realHarshCodes/python-image-ocr.git
+cd python-image-ocr
 ```
 
 ### 2. Create a virtual environment
