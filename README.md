@@ -177,12 +177,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request f
 
 ---
 
-## 📄 License
-
-This project is open-source. Add a `LICENSE` file (e.g., MIT) to make usage terms explicit for others.
-
----
-
 ## 👤 Author
 
 **Harsh** — [@realHarshCodes](https://github.com/realHarshCodes)
